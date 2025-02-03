@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.click{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 40px;
+    padding: 10px 20px;
+    background-color: goldenrod;
+    color: black;
+    transform: translate(-50%, 50%) ;
+    border: none;
+    border-radius: 5px;
+    
+}
